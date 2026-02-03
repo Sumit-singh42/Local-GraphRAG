@@ -1,0 +1,7 @@
+networkx
+chromadb
+sentence-transformers
+requests
+numpy
+langchain
+langchain-community
